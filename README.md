@@ -15,7 +15,3 @@
 
 #### I'm working on:
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-## Some stats
-
-## [![mathisvieilly's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisvieilly&count_private=true&show_icons=true&theme=radical)](https://github.com/mathisvieilly/mathisvieilly)
