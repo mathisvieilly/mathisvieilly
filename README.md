@@ -17,7 +17,7 @@
 
 <img src="https://github.com/mathisvieilly/mathisvieilly/blob/main/VIEILLY-Certificate-Innovation-for-Good.png?raw=true" width="200">
 
-- Decode the Entrepreneur's DNA (Online, OpenClassrooms x École Polytechnique)
+- Decode the Entrepreneur's DNA (Online - OpenClassrooms x École Polytechnique)
 
 <img src="https://github.com/mathisvieilly/mathisvieilly/blob/main/1805760254.png?raw=true" width="200">
 
