@@ -15,11 +15,11 @@
 
 - Innovation for Good (On the campus of HEC Paris - 1st Business School in Europe)
 
-![alt text](https://github.com/mathisvieilly/mathisvieilly/blob/main/VIEILLY-Certificate-Innovation-for-Good.png?raw=true)
+<img src="https://github.com/mathisvieilly/mathisvieilly/blob/main/VIEILLY-Certificate-Innovation-for-Good.png?raw=true" width="200">
 
 - Decode the Entrepreneur's DNA (Online, OpenClassrooms x École Polytechnique)
 
-![alt text](https://github.com/mathisvieilly/mathisvieilly/blob/main/1805760254.png?raw=true)
+<img src="https://github.com/mathisvieilly/mathisvieilly/blob/main/1805760254.png?raw=true" width="200">
 
 ## Contact me!
 
