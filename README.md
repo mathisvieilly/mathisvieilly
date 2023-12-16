@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working as a freelance full stack developer
 - 🌱 I’m learning good practices to improve my level in the development of large-scale applications (Web Front/Back end, DevOps methods, AWS, etc.)
-- 📚 I'm currently a student at Epitech Lyon
+- 📚 I'm currently a student at Epitech Paris
 - 📫 How to reach me: mathis.vieilly@icloud.com
 
 ## Technology Stack
